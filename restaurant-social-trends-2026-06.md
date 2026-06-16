@@ -249,8 +249,198 @@ Two of pop's biggest young stars teaming up; heavy stan/theory content.
 
 ---
 
+---
+
+# 📌 Volume 2 — Expanded Trends (more links for the client deck)
+
+A second, deeper wave — net-new trends not listed above, with an emphasis on **direct TikTok/Instagram video links** you can drop straight into a deck. Link type is marked: 🎬 = direct video, 🔊 = sound/audio page, 👤 = creator/brand profile, 📰 = article (when no clean direct video surfaced). **Verify each link renders before presenting** (see note at the very bottom).
+
+## 5) More Food & Drink Trends
+
+**Kool-Aid Pineapple ("Pineapple Dreamz")** 🟢🟡
+Fresh pineapple spears soaked in Kool-Aid powder + sugar until neon and candy-like. Cheap, nostalgic, hyper-visual.
+🎬 [TikTok](https://www.tiktok.com/@chilipeppercooks/video/7637238116411084062)
+🍽️ A neon "soaked fruit" LTO or summer kids' special; remix with your brand colors.
+
+**Savory Snack Plate ("Savory Girl Dinner")** 🟡
+The briny/salty evolution of "girl dinner" — hashbrowns, dips, deli meats, pickled peppers, stacked and grazed.
+🎬 [TikTok (originator)](https://www.tiktok.com/@simplystephjaye/video/7561618007441558797)
+🍽️ A shareable "grazing board" or happy-hour snack plate.
+
+**Viral Pickle Dip (Grillo's)** 🟡
+Creamy ranch + cream cheese + chopped pickles, cheddar, bacon, jalapeño. Cookout crowd-pleaser riding the pickle-everything wave.
+🎬 [TikTok](https://www.tiktok.com/@cookwithauds/video/7607536664386276622)
+🍽️ A summer appetizer or "dip of the month."
+
+**Biscoff Yogurt "Tiramisu"** 🟢🟡
+2-ingredient hack: Biscoff cookies dunked in Greek yogurt, chilled into a high-protein cheesecake-like dessert.
+🎬 [TikTok](https://www.tiktok.com/@boredoflunch/video/7595618348373724438) · [Instagram reel](https://www.instagram.com/reel/DTv0rIoCWzy/)
+🍽️ A "healthy-ish" dessert special; post the easy build.
+
+**Banana Bread Latte** 🟡🔴
+Homemade banana-bread syrup shaken into lattes; cozy nostalgia. (Dunkin' made a "Monkey Business" version.)
+🎬 [TikTok](https://www.tiktok.com/@vanessafaga/video/7496168382707060023)
+🍽️ A seasonal café syrup LTO.
+
+**Cottage Cheese Flatbread** 🟡
+Blended cottage cheese + egg baked into a high-protein (~20–40g) flatbread/wrap.
+🎬 [TikTok](https://www.tiktok.com/@kalejunkie/video/7371570213797563691)
+🍽️ A protein-forward wrap/pizza base callout.
+
+**Cottage Cheese Breakfast Tacos** 🟡
+Cottage cheese + egg white baked into high-protein "taco shells."
+🎬 [TikTok](https://www.tiktok.com/@kelseyoppenheim/video/7401259142603705642)
+🍽️ A high-protein brunch item.
+
+**Whipped Dr Pepper (blended soda float)** 🟢
+Frozen soda cubes blended with soda + cream into a fluffy frozen treat.
+🎬 [TikTok](https://www.tiktok.com/@badbatchbaking/video/7505097451087383850)
+🍽️ A blended-soda dessert-drink for summer.
+
+**Crunchy Mangonada** 🟢
+Frozen mango/chamoy topped with crunchy chili-tamarind candy for ASMR crunch.
+🎬 [TikTok](https://www.tiktok.com/@mizzerybelltiktok/video/7099949369696341294)
+🍽️ A textural frozen treat; film the crunch.
+
+**Starbucks Tropical Butterfly Refresher (color-change)** 🟡
+Butterfly-pea-flower drink that changes color when stirred — made for video. Launched May 12, 2026.
+📰 [Article](https://sporked.com/article/new-starbucks-butterfly-refresher/)
+🍽️ Any color-changing drink = instant shareable. Cafés/bars: build one.
+
+**Strawberry Yogurt Clusters (frozen, choc-dipped)** 🔴 *evergreen*
+Yogurt + strawberries frozen, dipped in chocolate + flaky salt. Resurges every summer — "proven," not brand-new.
+🎬 [TikTok](https://www.tiktok.com/@tastewithnicki/video/7478445702297701663)
+
+**"Chinamaxxing" / hot-water TCM eating** 🟢🟡
+Wellness identity trend: hot water over cold drinks, bone broth, boiled fruit, framed around Traditional Chinese Medicine.
+📰 [NBC News](https://www.nbcnews.com/pop-culture/viral/turning-chinese-trend-tiktok-social-media-rcna255478)
+🍽️ A "warm & nourishing" broth/tea menu angle for wellness-skewing spots.
+
+**Logan's Cucumber Salad in a Jar** 🟡 *mature, still active*
+The "cucumber guy" — whole cucumber mandolined into a jar with sauces, shaken. Endless variations, satisfying ASMR.
+🎬 [TikTok (creator @logagm)](https://www.tiktok.com/@logagm/video/7482869233324510519)
+🍽️ A build-your-own cucumber-salad side; lean into the slicing ASMR.
+
+**Horchata Shaken Espresso (Starbucks summer LTO)** 🟢
+Blonde espresso + horchata syrup + oat milk; part of the global iced-espresso wave.
+📰 [Starbucks](https://about.starbucks.com/stories/2026/starbucks-previews-2026-summer-menu-with-tropical-flavors-and-horchata-inspired-drinks/)
+🍽️ A horchata-flavored coffee LTO.
+
+**Pistachio Cottage Cheese Ice Cream** 🟢
+Blended cottage cheese + pistachio churned into high-protein "ice cream."
+📰 [Recipe](https://www.eatingbirdfood.com/cottage-cheese-ice-cream/)
+🍽️ A protein-dessert special riding pistachio's surge.
+
+## 6) More General Viral Trends (audios, formats, slang)
+
+**"Melissa, I'm Drunk and Outside" (Jay Baptiste soca remix)** 🟡 *song of the summer contender*
+Chaotic AI-assisted soca anthem over "unhinged summer," drinking, and vacation clips.
+🎬 [TikTok](https://www.tiktok.com/@wesley.rbt/video/7636827363610873110) · 🔊 [Sound](https://www.tiktok.com/music/MELISSA-IM-DRUNK-AND-OUTSIDE-JAY-BAPTISTE-REWORK-7636767557592222487)
+🍽️ Patio/late-night/weekend-vibe content; "outside season" specials.
+
+**"The Puerto Rico Song" (Saxboy Billy)** 🟡
+AI yacht-rock travel parody — "First time in San Juan, mi hijo" — over trip montages.
+🎬 [Official visual](https://www.youtube.com/watch?v=J9e7hZ3L0DM) · 📰 [Story](https://www.click2houston.com/houston-life/2026/06/08/meet-saxboy-billy-the-man-behind-the-viral-puerto-rico-song/)
+🍽️ "First time at [your restaurant]" first-visit/reaction content.
+
+**"Like a Prayer / 2026 Summer Anthem" (Josh Fawaz remix)** 🟢🟡
+House remix; record a 7-sec lip-sync, overlay "2026 Summer Anthem," tag #summeranthem.
+🔊 [Sound hub](https://www.tiktok.com/discover/josh-fawaz-like-a-prayer-song)
+🍽️ A staff or summer-menu "anthem" clip.
+
+**Nirvana "Smells Like Teen Spirit" — "oh well, whatever, nevermind"** 🟢
+Carefree format: one slow shot + three text lines dropping on the lyric.
+🔊 [Sound](https://www.tiktok.com/music/Smells-Like-Teen-Spirit-6741613036685019137)
+🍽️ A breezy "don't-care" bit about a guilty-pleasure menu item.
+
+**Food Jutsu (anime food-summoning transition)** 🟡
+Hand-sign CapCut transition that "summons" a dish/drink.
+📰 [Trend hub](https://www.tiktok.com/en/trending/detail/food-jutsu-trend)
+🍽️ Perfect for restaurants — "summon" your signature dish on screen.
+
+**"Rich in Life" (gratitude overlay)** 🟢
+Everyday footage + caption listing hyper-specific small joys you're "rich in life" for.
+🎬 [TikTok](https://www.tiktok.com/@hubs.life/video/7490206852941253934)
+🍽️ "Rich in life because the regulars know their order before they sit down."
+
+**"I Have Therapy" POV (shopping/self-care)** 🟡
+Declines plans for "therapy" → reveal it's shopping/Pilates/self-care.
+📰 [Article](https://www.aol.com/finance/therapy-isn-t-enough-hilariously-143612487.html)
+🍽️ "My therapy = our oat-milk latte and a window seat."
+
+**"Probably Needed a Hug" (Adele "Hometown Glory")** 🟡🔴
+Bittersweet "probably needed a hug but [did X] instead" list.
+📰 [Trend hub](https://www.tiktok.com/en/trending/detail/probably-needed-a-hug-trend)
+🍽️ "…but got the dessert instead." Comfort-food angle.
+
+**"Wow, OK" Tone Challenge** 🟡
+Deliver one phrase in 4–5 tones (supportive, sarcastic, angry, flirty).
+📰 [Trend hub](https://www.tiktok.com/discover/wow-ok-trend-original-with-different-words)
+🍽️ Staff duet reacting to specials/orders in different tones.
+
+**"I Am Home" (MJ "Beat It," biopic-driven)** 🟢🟡
+Strut into your "secret third place" and admit it's "home."
+🔊 [Sound](https://www.tiktok.com/music/Beat-It-6696417475073935361)
+🍽️ Ideal for cafés/bars — "my third place is here" regulars content.
+
+**Dot Cakes (NYC sprinkle-cake reveal)** 🟡
+Vanilla cake blanketed in crunchy nonpareils; the slice/scoop reveal is the content.
+📰 [E! News](https://www.eonline.com/news/1432430/whats-a-dot-cake-all-about-the-viral-dessert)
+🍽️ A nostalgic sprinkle dessert; film the satisfying cut.
+
+**Slang to caption with** 🟡 — "crash out / crashing out" (emotional meltdown), "delulu" ("delulu is the solulu"), "cooked" (done for), "tweaking" (acting out of pocket).
+📰 [Crash out](https://similefy.com/what-does-crash-out-mean/) · [Delulu etc.](https://openthemagazine.com/world/youll-need-a-dictionary-for-these-7-gen-z-terms-that-have-taken-over-the-internet)
+
+## 7) Real Restaurants That Went Viral (inspiration to show the client)
+
+**Pan Pan Bakery (Arlington, TX)** — Mexican-Japanese fusion (matcha conchas). ~19M+ views off a founder concept walkthrough; tiny shop → international destination.
+👤 [TikTok](https://www.tiktok.com/@panpanbakeryandcafe) · 🎬 [Concept video](https://www.tiktok.com/@panpanbakeryandcafe/video/7536006883946122510)
+💡 *Lesson:* a clear, unusual concept + authentic founder story.
+
+**Salt Hank's (NYC, Bleecker St)** — Creator (4M+) opened a restaurant serving essentially ONE item, a $34 French dip. Line down the block.
+👤 [TikTok](https://www.tiktok.com/@salt_hank) · 🎬 [Opening](https://www.tiktok.com/@salt_hank/video/7509520772369599790)
+💡 *Lesson:* the "one perfect item" bet is itself the hook (creator → brick-and-mortar funnel).
+
+**Café Dear Leon (Baltimore)** — A one-off "crab dip bagel" blew up via an influencer reel; lines now wrap the block.
+🎬 [Creator video](https://www.tiktok.com/@zoeaustrie/video/7469174017287556395)
+💡 *Lesson:* lean hard into an accidental hero item.
+
+**Òrale Güey (Columbus, OH)** — Daughter's 8-second "support my parents' dream" TikTok hit ~1.2M views; packed the place, now a 2nd location.
+🎬 [Creator video](https://www.tiktok.com/@irandirodriguez/video/7479050752007228715)
+💡 *Lesson:* the lowest-production, highest-empathy format — most copyable for independents.
+
+**Sablé Boulangerie (Gilbert, AZ)** — French bakery; sell-outs + 1-per-person limits drove "I waited in line" UGC.
+🎬 [Creator video](https://www.tiktok.com/@whatbeckyloves/video/7640234879472520479)
+💡 *Lesson:* scarcity manufactures content.
+
+**Udon Shin (Mesa, AZ)** — Tokyo udon shop's first US location; TikTok-famous carbonara udon = built-in day-one demand.
+🎬 [Dish video](https://www.tiktok.com/@how.kev.eats/video/7451748836340550958)
+💡 *Lesson:* "first US location of a TikTok-famous dish" = cult-import scarcity.
+
+**AZ Taco King (Phoenix)** — Underdog birria comeback; over-the-top birria pizza/ramen are creator catnip.
+👤 [Instagram](https://www.instagram.com/tacokingaz/) · 🎬 [Birria pizza](https://www.tiktok.com/@hungryhotline/video/7283295654879841566)
+💡 *Lesson:* comeback narrative + maximalist photogenic items.
+
+**KFC × Hismile "Fried Chicken Toothpaste"** — Absurd-but-real stunt collab; sold out in 48 hours.
+📰 [Article](https://hypebeast.com/2025/4/kfc-x-hismile-fried-chicken-toothpaste-info)
+💡 *Lesson:* engineer a stunt for memes + sell-out urgency.
+
+**Dunkin' "Banana" menu** — Trend-jacked TikTok's banana-matcha wave (banana cold foam, Bananarama Matcha) instead of inventing a trend.
+📰 [Article](https://www.aol.com/articles/tried-dunkin-spring-2026-menu-130000820.html)
+💡 *Lesson:* don't invent the trend — ride an existing flavor wave fast.
+
+**Café Bích Nga (Pinellas Park, FL)** — A creator spotlighted an 86-yr-old owner; community then gifted her a rent-free home. The "creator good-deed" genre.
+📰 [Fox 13](https://www.fox13news.com/news/tiktok-influencer-viral-video-community-surprise-pinellas-park-restaurant-owner-free-home)
+💡 *Lesson:* partner with creators who spotlight small businesses.
+
+**Food creators TikTok officially flagged for 2026** (study/partner with): @2peoplecooking (duo cooking), @rashadjonesbbq (BBQ), @cassiestokes1111, @munchin_mash, plus @salt_hank.
+📰 [TikTok Discover List coverage](https://www.yahoo.com/lifestyle/articles/tiktok-just-named-10-food-153344644.html)
+
+---
+
 ### Sourcing & caveats
 - Compiled from live web research on **June 16, 2026**; every link was retrieved from search results, not fabricated.
-- TikTok frequently hides single-video URLs from search, so some links point to a trend's **Discover hub** (a live feed of that trend) or to a documenting article rather than one specific video.
+- ⚠️ **Verify before presenting:** TikTok and Instagram block automated fetching (anti-bot 403s), so the direct video/profile links above could **not be machine-opened** — they are real URLs surfaced in search, but confirm each one renders before putting it in front of the client. If a specific video link ever 404s, searching the trend name on TikTok pulls thousands of current examples.
+- 🎬 = direct video · 🔊 = sound/audio page · 👤 = creator/brand profile · 📰 = article. Where no clean direct video surfaced, an article (which usually embeds examples) is linked instead.
 - Recency flags (🟢🟡🔴) are best-judgment calls — verify a trend is still live before building a big campaign around it, since short-form trends can shift within days.
-- Best-corroborated items: World Cup, Father's Day, Knicks/Hurricanes titles, Starbucks Blue Coconut, swicy/swalty, Chili's & Crumbl playbooks.
+- Best-corroborated items: World Cup, Father's Day, Knicks/Hurricanes titles, Starbucks Blue Coconut & Butterfly Refresher, swicy/swalty, Pan Pan/Salt Hank's, Chili's & Crumbl playbooks.
