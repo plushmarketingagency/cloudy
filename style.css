@@ -40,6 +40,15 @@ header p {
   flex-direction: column;
 }
 
+.fallback-link {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  color: #0077ff;
+  text-decoration: none;
+  font-size: 14px;
+}
+
 .embed-wrap {
   display: flex;
   justify-content: center;

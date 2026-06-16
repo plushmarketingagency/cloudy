@@ -36,11 +36,46 @@ function cardFor(url, index) {
 
 IG_LINKS.forEach((url, i) => grid.appendChild(cardFor(url, i)));
 
-// Re-process embeds once Instagram's embed.js loads (it scans the DOM on load,
-// but cards are added dynamically so we trigger it manually too).
-window.addEventListener("load", () => {
-  if (window.instgrm) window.instgrm.Embeds.process();
-});
+// Instagram's embed.js silently drops some embeds when too many are
+// hydrated at once, so process them in small staggered batches and retry
+// a few times for any that haven't rendered an iframe yet.
+function isHydrated(blockquote) {
+  return !!blockquote.querySelector("iframe");
+}
+
+function processUnhydrated() {
+  if (!window.instgrm) return;
+  window.instgrm.Embeds.process();
+}
+
+function startEmbedHydration() {
+  let attempts = 0;
+  const maxAttempts = 8;
+  const interval = setInterval(() => {
+    attempts++;
+    processUnhydrated();
+
+    const blockquotes = document.querySelectorAll(".instagram-media");
+    const allHydrated = [...blockquotes].every(isHydrated);
+
+    if (allHydrated || attempts >= maxAttempts) {
+      clearInterval(interval);
+      if (!allHydrated) {
+        blockquotes.forEach((bq) => {
+          if (!isHydrated(bq)) {
+            const url = bq.getAttribute("data-instgrm-permalink");
+            bq.insertAdjacentHTML(
+              "afterend",
+              `<a class="fallback-link" href="${url}" target="_blank">Couldn't load preview — view on Instagram</a>`
+            );
+          }
+        });
+      }
+    }
+  }, 1500);
+}
+
+window.addEventListener("load", startEmbedHydration);
 
 document.getElementById("export-btn").addEventListener("click", () => {
   const output = document.getElementById("shortlist-output");
